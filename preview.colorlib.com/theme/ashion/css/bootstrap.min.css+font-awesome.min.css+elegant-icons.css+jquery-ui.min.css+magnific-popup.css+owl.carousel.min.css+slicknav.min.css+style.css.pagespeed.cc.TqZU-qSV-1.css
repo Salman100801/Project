@@ -1324,12 +1324,14 @@ ol {
 
 .categories__text h1 {
 	font-family: "Cookie", cursive;
-	color: #111111;
+	color: #ffffff;
+	background-color: rgb(2, 2, 2);
 	margin-bottom: 5px;
 }
 
 .categories__text h4 {
-	color: #111111;
+	color: #ffffff;
+	background-color: rgb(2, 2, 2);
 	font-weight: 700;
 }
 
@@ -1339,7 +1341,8 @@ ol {
 
 .categories__text a {
 	font-size: 14px;
-	color: #111111;
+	color: #ffffff;
+	background-color: rgb(2, 2, 2);
 	text-transform: uppercase;
 	font-weight: 600;
 	position: relative;
